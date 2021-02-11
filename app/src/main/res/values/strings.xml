@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tris</string>
+
+    <string name="home">TRIS</string>
+    <string name="start_button">GIOCA</string>
+
+    <string name="TitoloSchermataNomi">IMPOSTAZIONI</string>
+    <string name="Label1">Giocatore 1</string>
+    <string name="Label2">Giocatore 2</string>
+    <string name="Bottone">CONFERMA</string>
+    <string name="NameHint">Inserisci il tuo nome</string>
+
+    <string name="BottoneRigioca">RIGIOCA</string>
+    <string name="BottoneMenu">MENU</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TavolaTris">
+        <attr name="coloreTavola" format="color"/>
+        <attr name="ColoreX" format="color"/>
+        <attr name="ColoreO" format="color"/>
+        <attr name="ColoreLineaVincitore" format="color"/>
+    </declare-styleable>
+</resources>
